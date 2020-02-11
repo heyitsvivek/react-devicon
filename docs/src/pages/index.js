@@ -106,7 +106,7 @@ const IndexPage = () => (
       <Paragraph size={'large'}>
         React Devicon is an open source project created by{' '}
         <a target={'_blank'} href={'https://github.com/fpoumian'}>
-          Fernando Poumián
+          VIVEK C
         </a>{' '}
         and released under the MIT license.
       </Paragraph>
