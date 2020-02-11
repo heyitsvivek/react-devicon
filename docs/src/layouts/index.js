@@ -40,7 +40,7 @@ const TemplateWrapper = ({ children, data }) => {
                   GatsbyJS
                 </a>
                 <br />
-                {`Copyright © 2017 Fernando Poumián`}
+                {`Copyright © 2017 VIVEK`}
               </Paragraph>
             </Box>
           </Footer>
